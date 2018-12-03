@@ -5,7 +5,8 @@ For both Backend and Frontend, they are both Intellij spring-boot maven projects
 Please prepare maven, npm, curl and Nodejs in your operating system.
 For Backend app, 
   1) Make sure you have sql server installed and version should be greater than 2012. 
-  2) Go to application.properties to modify username(spring.datasource.username) and password (spring.datasource.password) for your sql server instance. 3) Go to sql server studio to create db called springbootdb.
+  2) Go to application.properties to modify username(spring.datasource.username) and password (spring.datasource.password) for your sql server instance. 
+  3) Go to sql server studio to create db called springbootdb.
 
 #How to start apps:
 #For Backend app, simply run CurrencyfairBackendApplication
