@@ -9,10 +9,10 @@ For Backend app,
   3) Go to sql server studio to create db called springbootdb.
 
 #How to start apps:
-For Backend app, 
-	1) Simply run CurrencyfairBackendApplication
+For Backend app:
+	1) Simply run CurrencyfairBackendApplication.
 	
-For Frontend app, 
+For Frontend app: 
   	1) Navigate to directory \CurrencyFair_Suite\Currencyfair_Frontend, and run mvn spring-boot:run. 
   	2) Navigate to direcotry src/main/resource, and run npm install. 
   	3) run npm start.
