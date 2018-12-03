@@ -18,7 +18,7 @@ For Frontend app:
 3) run npm start.
 
 #For post messages to backend, please use Postman and flow steps below, this is because the app is secured by oauth2.0 password grant.
-1) run curl testjwtclientid:XY7kmzoNzl100@localhost:8080/currencyfair/oauth/token -d grant_type=password -d username=john.doe -d password=jwtpass to generate JWT token. You will receive a response similar to below:
+1) Run curl testjwtclientid:XY7kmzoNzl100@localhost:8080/currencyfair/oauth/token -d grant_type=password -d username=john.doe -d password=jwtpass to generate JWT token. You will receive a response similar to below:
 
 {"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsidGVzdGp3dHJlc2
 91cmNlaWQiXSwidXNlcl9uYW1lIjoiam9obi5kb2UiLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXSwiZX
